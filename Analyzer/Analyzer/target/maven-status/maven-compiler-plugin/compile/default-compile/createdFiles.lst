@@ -1,0 +1,4 @@
+Model\AnalysisString.class
+View\Menu.class
+com\mycompany\analyzer\Analyzer.class
+Controller\AnalysisMNG.class
