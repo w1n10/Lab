@@ -1,0 +1,4 @@
+com\mycompany\analyze_file_path_vipro\Analyze_File_Path_Vipro.class
+Model\FilePathAnalyzer.class
+View\Menu.class
+Controller\PathAnalyzerController.class
