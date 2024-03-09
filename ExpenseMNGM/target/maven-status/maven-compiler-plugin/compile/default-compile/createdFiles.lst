@@ -1,0 +1,5 @@
+View\Menu.class
+Controller\ExpenseManage.class
+Model\Expense.class
+com\mycompany\expensemngm\ExpenseMNGM.class
+Model\Expense_Extension.class
